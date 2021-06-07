@@ -1,6 +1,8 @@
 # Battle-of-Neighbourhood
 The Battle of the Neighborhoods - Week 1
+
 Introduction & Business Problem :
+
 Problem Background:
 The City of New York, is the most populous city in the United States. It is diverse and is the financial capital of USA. It is multicultural. It provides lot of business oppourtunities and business friendly environment. It has attracted many different players into the market. It is a global hub of business and commerce. The city is a major center for banking and finance, retailing, world trade, transportation, tourism, real estate, new media, traditional media, advertising, legal services, accountancy, insurance, theater, fashion, and the arts in the United States.
 This also means that the market is highly competitive. As it is highly developed city so cost of doing business is also one of the highest. Thus, any new business venture or expansion needs to be analysed carefully. The insights derived from analysis will give good understanding of the business environment which help in strategically targeting the market. This will help in reduction of risk. And the Return on Investment will be reasonable.
@@ -15,6 +17,7 @@ Chinese and other Asian restaurants, sandwich joints, trattorias, diners, and co
 mobile food vendors - Some 4,000 licensed by the city
 Middle Eastern foods such as falafel and kebabs examples of modern New York street food
 It is famous for not just Pizzerias, Cafe's but also for fine dining Michelin starred restaurants.The city is home to "nearly one thousand of the finest and most diverse haute cuisine restaurants in the world", according to Michelin.
+
 So it is evident that to survive in such competitive market it is very important to startegically plan. Various factors need to be studied inorder to decide on the Location such as :
 
 New York Population
